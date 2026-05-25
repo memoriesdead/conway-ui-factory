@@ -1,0 +1,19 @@
+{
+  "profile": "startup_checkout",
+  "chain": "unconfigured",
+  "asset": "USDC",
+  "amountUsd": "5",
+  "checkoutUrl": null,
+  "receiveAddress": null,
+  "addressEnvLocked": false,
+  "exposeReceiveAddress": false,
+  "memo": "conway-ui-factory:startup:mpkk0iuz",
+  "configured": false,
+  "livePaymentAllowed": false,
+  "verification": {
+    "rpcConfigured": false,
+    "explorerConfigured": false,
+    "webhookConfigured": false
+  },
+  "secretPolicy": "no_private_keys_public_addresses_only"
+}
